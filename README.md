@@ -1,2 +1,2 @@
 # Dontpad
-Uma biblioteca para uso simples do dontpad.com, possibilita tanto requisição quanto escrita
+Uma biblioteca em java para uso simples do dontpad.com, possibilita tanto requisição quanto escrita
